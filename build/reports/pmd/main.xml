@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.17.0" timestamp="2019-12-18T12:28:07.505">
+<file name="C:\Users\USER\Desktop\Test-Integracion-Continua\src\main\java\PrimaV5\PrimaV5.java">
+<violation beginline="11" endline="29" begincolumn="24" endcolumn="55" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="PrimaV5" class="PrimaV5" method="main" variable="factorEdad" externalInfoUrl="https://pmd.github.io/pmd-6.17.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+Found 'DU'-anomaly for variable 'factorEdad' (lines '11'-'29').
+</violation>
+<violation beginline="13" endline="29" begincolumn="25" endcolumn="93" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="PrimaV5" class="PrimaV5" method="main" variable="aptoParaReduccion" externalInfoUrl="https://pmd.github.io/pmd-6.17.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+Found 'DU'-anomaly for variable 'aptoParaReduccion' (lines '13'-'29').
+</violation>
+</file>
+</pmd>
