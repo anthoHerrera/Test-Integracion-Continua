@@ -1,2 +1,2 @@
 # Test-Integracion-Continua
-*Practica integración continua
+Practica integración continua
