@@ -5,6 +5,8 @@ public class PrimaV5 {
 	public static void main(String[] args) {
 		System.out.println("Programa para calculo de primas.");
 
+		int reduccion;
+		double valorPrima;
 		int edad = 18;
 		int puntos = 30;
 
@@ -14,9 +16,6 @@ public class PrimaV5 {
 		boolean edadPermitida = (18 <= edad && edad <= 90);
 		boolean puntosEnRango = (0 <= puntos && puntos <= 30);
 		boolean habilitado = (0 < puntos);
-
-		int reduccion;
-		double valorPrima;
 
 		if (edadPermitida && habilitado && puntosEnRango) {
 			reduccion = aptoParaReduccion ? getReduccion(edad) : 0;

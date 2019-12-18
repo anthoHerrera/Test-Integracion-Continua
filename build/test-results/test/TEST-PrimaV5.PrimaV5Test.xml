@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PrimaV5.PrimaV5Test" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-12-18T17:28:26" hostname="USER" time="0.06">
+<testsuite name="PrimaV5.PrimaV5Test" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-12-18T17:46:22" hostname="USER" time="0.06">
   <properties/>
-  <testcase name="testGetValorPrima()" classname="PrimaV5.PrimaV5Test" time="0.046"/>
-  <testcase name="testGetReduccion()" classname="PrimaV5.PrimaV5Test" time="0.003"/>
-  <testcase name="testGetFactorEdad()" classname="PrimaV5.PrimaV5Test" time="0.001"/>
-  <testcase name="testIsAptoParaReduccion()" classname="PrimaV5.PrimaV5Test" time="0.001"/>
-  <testcase name="testGetPuntosQuePuedePerder()" classname="PrimaV5.PrimaV5Test" time="0.0"/>
+  <testcase name="testGetValorPrima()" classname="PrimaV5.PrimaV5Test" time="0.05"/>
+  <testcase name="testGetReduccion()" classname="PrimaV5.PrimaV5Test" time="0.002"/>
+  <testcase name="testGetFactorEdad()" classname="PrimaV5.PrimaV5Test" time="0.0"/>
+  <testcase name="testIsAptoParaReduccion()" classname="PrimaV5.PrimaV5Test" time="0.002"/>
+  <testcase name="testGetPuntosQuePuedePerder()" classname="PrimaV5.PrimaV5Test" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
